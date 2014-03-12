@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Toria
 title: "In the Beginning..."
 date:   2013-12-27 22:30:09
 categories: tech development update
