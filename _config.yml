@@ -2,3 +2,4 @@ name: Toria Talks
 markdown: redcarpet
 pygments: true
 paginate: 5
+gems: ["emoji_for_jekyll"]
