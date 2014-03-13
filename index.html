@@ -7,6 +7,6 @@ layout: default
     <h2>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.content }}
     <small>Written by {{ post.author }}</small>
-    <hr>
+    <a class="commentCount" href="{{ post.url }}#disqus_thread">0 Comments</a>
   </div>
 {% endfor %}

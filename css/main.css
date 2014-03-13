@@ -34,6 +34,10 @@ a:visited { color: #a0a; }
 /* Home
 /*
 /*****************************************************************************/
+.commentCount{
+  float: right;
+}
+
 .posts {
   list-style-type: none;
   margin-bottom: 2em;
