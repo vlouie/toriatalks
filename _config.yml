@@ -1,4 +1,5 @@
 name: Toria Talks
+title: Toria Talks - a blog dedicated to music and technology
 markdown: redcarpet
 pygments: true
 paginate: 5
