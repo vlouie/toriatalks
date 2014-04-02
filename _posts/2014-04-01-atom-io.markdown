@@ -1,0 +1,15 @@
+---
+layout: post
+author: Toria
+title: "Atom"
+date:   2014-04-01
+categories: tech
+---
+
+Text editors? Text editors. Text editors!
+
+I got an invite to beta test GitHub's new text editor, Atom. On the [official webpage][atom], it says that Atom is "A hackable text editor for the 21st century"
+
+
+
+[atom]: https://atom.io/
