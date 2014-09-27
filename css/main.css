@@ -25,9 +25,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #aaa; }
-a:hover   { color: #555; }
-a:visited { color: #222; }
+a         { color: #555; }
+a:hover   { color: #999; }
+a:visited { color: #1CBA8B; }
 
 /*****************************************************************************/
 /*
@@ -87,12 +87,12 @@ a:visited { color: #222; }
 }
 
 .header a.extra {
-  color: #aaa;
+  color: #1CBA8B;
   margin-left: 1em;
 }
 
 .header a.extra:hover {
-  color: #000;
+  color: #00F0C4;
 }
 
 .meta {
@@ -113,7 +113,7 @@ a:visited { color: #222; }
 }
 
 .footer .contact a {
-  color: #8085C1;
+  color: #1CBA8B;
 }
 
 .footer .rss {
