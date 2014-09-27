@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #000;
   font: 13.34px Verdana, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -25,9 +25,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #ddd; }
-a:hover   { color: #000; }
-a:visited { color: #eee; }
+a         { color: #aaa; }
+a:hover   { color: #555; }
+a:visited { color: #222; }
 
 /*****************************************************************************/
 /*
@@ -41,7 +41,6 @@ a:visited { color: #eee; }
 .posts {
   list-style-type: none;
   margin-bottom: 2em;
-  border-radius: 5px;
 }
 
 .posts li {
@@ -75,7 +74,7 @@ a:visited { color: #eee; }
 
 .title {
   display: inline-block;
-  font-size: 200%;
+  font-size: 300%;
   font-family: 'Yellowtail', cursive;
 }
 
@@ -138,6 +137,7 @@ a:visited { color: #eee; }
   background-color: #eee;
   margin: 1em;
   padding: 1em;
+  border-radius: 10px;
 }
 
 .post pre {
@@ -169,4 +169,8 @@ a:visited { color: #eee; }
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.content-img {
+  width: 100%;
 }
