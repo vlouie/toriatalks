@@ -1,0 +1,6 @@
+img tag:
+
+{% img content-img https://s3-us-west-2.amazonaws.com/img.toriatalks/atom-1.png width height 'Look at me write this post in Atom' 'Atom Screenshot' %}
+
+[<img src="https://s3-us-west-2.amazonaws.com/img.toriatalks/atom-1.png">](https://s3-us-west-2.amazonaws.com/img.toriatalks/atom-1.png)
+
