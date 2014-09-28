@@ -95,6 +95,25 @@ a:visited { color: #1CBA8B; }
   color: #00F0C4;
 }
 
+.border-top {
+  background-image: url('https://s3-us-west-2.amazonaws.com/img.toriatalks/border-1.png');
+  height: 90px;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  width: 600px;
+  margin: auto auto 0px;
+}
+
+.border-bottom {
+  background-image: url('https://s3-us-west-2.amazonaws.com/img.toriatalks/border-2.png');
+  height: 90px;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  width: 600px;
+  margin: auto auto 0px;
+}
+
 .meta {
   color: #aaa;
 }

@@ -13,7 +13,8 @@ I got an invite to beta test GitHub's new text editor, Atom. On the [official we
 It's missing my beloved Vim keybindings, and I don't have the time or energy right now to learn a new text editor. The GUI is nice, but there are options in the menus that aren't available yet it seems (a browser debugger that looks like the Chrome dev tool opens).
 Visually, the text editor looks similar to Sublime, and one particularly cool feature I've seen in Atom is that when editing markdown files, there's a split view that shows the rendered version alongside the text. I got some invites when I downloaded Atom for myself so if anyone wants one, let me know in the comments. I gave one invite code to my boss already, but I don't think he's really adopted it either. Familiarity is a hard thing to shake.
 
-{% img content-img https://s3-us-west-2.amazonaws.com/img.toriatalks/atom-1.png width height 'Look at me write this post in Atom' 'Atom Screenshot' %}
+{% img content-img https://s3-us-west-2.amazonaws.com/img.toriatalks/atom-1.png width height 'Look at me write this post in Atom' 'Atom Screenshot' %}(https://s3-us-west-2.amazonaws.com/img.toriatalks/atom-1.png)
 
+[<img src="https://s3-us-west-2.amazonaws.com/img.toriatalks/atom-1.png">](https://s3-us-west-2.amazonaws.com/img.toriatalks/atom-1.png)
 
 [atom]: https://atom.io/
