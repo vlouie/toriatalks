@@ -27,7 +27,8 @@ Sonata Arctica is a power metal band from Finland, though their style as of late
 All in all, the bands (at least what I heard of them) were fantastic and with the exception of Xandria, the setlists featured a variety not usually found in concert setlists. It was unfortunate that the mixing did not boost the vocals enough, however. Aside from that, the venue was adequate and though I stood near the back, I could see that the crowd could go all the way up to the stage and there was some interaction between the bands and the audience in the first row. It is also rare that a concert should feature 3 bands that I am familiar with, never mind actually already being fans of all 3. Should these bands return in the future, I would definitely see Sonata Arctica and Delain again. Perhaps if I get into Xandria's future albums, I would make the effort to see them as well. And though VENUE was not the best for sound quality, it was good enough, and I would attend another concert there in the future.
 
 **Current mood:** concert withdrawal :sweat:
-(All photo credits go to my friend and best concert buddy Krista Wong.)
+
+<sub>(All photo credits go to my friend and best concert buddy Krista Wong.)</sub>
 
 [sonataweb]: http://sonataarctica.info/
 [delainweb]: http://www.delain.nl/
