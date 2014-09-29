@@ -4,7 +4,7 @@ comments: true
 ---
 
 <div class="post">
-  <h2>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h2>{{ page.date | date_to_string }}</span> &raquo; {{ page.title }}</h2>
   {{ content }}
   {% if page.comments %}
   <div id="disqus_thread"></div>
