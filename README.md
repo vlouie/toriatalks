@@ -1,2 +1,3 @@
 - serve with: jekyll serve
+- build with: jekyll build
 - install gem: emoji_for_jekyll

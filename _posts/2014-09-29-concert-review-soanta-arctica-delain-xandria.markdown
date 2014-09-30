@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Toria
-title: "Concert Review: Sonata Arctica, Delain, Xandria @ VENUE"
+title: "Review: Sonata Arctica, Delain, Xandria @ VENUE"
 date:   2014-09-29
-categories: music, reviews, concerts
+categories: music reviews concerts
 ---
 
 One of the best parts of being out of school is that I no longer feel guilty when I go out on a weeknight. (It helps that we have a flexible start time at work, as well.) :smile: 
