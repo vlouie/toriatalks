@@ -34,4 +34,4 @@ Since I got the Animal Crossing 3DS bundle back in June, I couldn't register my 
 
 And again, here's the link to the promo: [Club Nintendo Pokemon Offer][pokelink]
 
-[pokelink]:	http://club2.nintendo.com/3ds-pokemon-promo
+[pokelink]: http://club2.nintendo.com/3ds-pokemon-promo
