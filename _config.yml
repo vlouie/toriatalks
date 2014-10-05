@@ -3,4 +3,5 @@ title: Toria Talks - ramblings of a mad girl...
 markdown: redcarpet
 pygments: true
 paginate: 5
+paginate_path: "/page:num"
 gems: ["emoji_for_jekyll"]
