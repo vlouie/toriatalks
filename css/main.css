@@ -125,6 +125,12 @@ a:visited { color: #1CBA8B; }
   color: #aaa;
 }
 
+.pagination {
+  text-align: center;
+  margin: 1em;
+  color: #eee;
+}
+
 .footer {
   font-size: 80%;
   color: #666;
