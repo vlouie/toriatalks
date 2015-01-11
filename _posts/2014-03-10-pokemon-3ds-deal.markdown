@@ -3,7 +3,8 @@ layout:	post
 author:	Toria
 title:	"Pokemon X & Y Club Nintendo Steal!"
 date:	2014-03-10
-categories: gaming
+categories: tech
+tags:	pokemon gaming
 ---
 
 One of my good friends told me about this most excellent Club Nintendo [deal][pokelink] currently going on right now. Essentially you have to register your 3DS (or 2DS) and a game (out of a specific set), and you get a digital copy of Pokemon X or Y for free!

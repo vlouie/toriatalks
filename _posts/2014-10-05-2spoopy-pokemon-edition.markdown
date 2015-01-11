@@ -3,8 +3,8 @@ layout:	post
 author:	Toria
 title:	"2spoopy - Pokemon Edition"
 date:	2014-10-05
-categories:	gaming
-tags:	pokemon
+categories:	tech
+tags:	pokemon gaming
 ---
 
 It's that time of year again! Ghosts and ghouls, and free Pokemon!

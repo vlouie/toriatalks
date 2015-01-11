@@ -3,7 +3,8 @@ layout: post
 author: Toria
 title: "Legen-wait for it-dary!"
 date:   2014-03-12
-categories: gaming
+categories: tech
+tags:	pokemon gaming
 ---
 
 I'm on day 3 of my Pokemon adventure in the Kalos region, and I have to say that I am actually loving the new features in this iteration of Pokemon. On top of the fantastic Pokemon X/Y deal mentioned in my previous post, I've come across another deal that is also on for a limited time and, quite frankly, it is LEGENDARY!

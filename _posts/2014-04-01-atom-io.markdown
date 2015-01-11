@@ -4,6 +4,7 @@ author: Toria
 title: "Atom"
 date:   2014-04-01
 categories: tech
+tags:	atom text editor
 ---
 
 Text editors? Text editors. Text editors!

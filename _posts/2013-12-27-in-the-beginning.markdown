@@ -3,7 +3,8 @@ layout: post
 author: Toria
 title: "In the Beginning..."
 date:   2013-12-27 22:30:09
-categories: tech development update
+categories: tech
+tags:	development update
 ---
 
 In the beginning, there was Pi. A Raspberry Pi, in fact. And so begins the start of my latest blogging endeavour: the creation of a [Jekyll][jekyll]-powered blog run on a Raspberry Pi in the basement of my home.
