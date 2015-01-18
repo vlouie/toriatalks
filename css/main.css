@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a { 
+a {
   color: #555;
   text-decoration: none;
 }
@@ -204,4 +204,14 @@ a:visited { color: #1CBA8B; }
 
 .content-img {
   width: 100%;
+}
+
+.centered-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.two-imgs {
+  width: 49%;
 }
