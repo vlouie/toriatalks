@@ -7,7 +7,7 @@ categories:	tea
 tags:	review green
 ---
 
-It's only been in the last couple of years that I've acquired an affinity for tea. This in part is due to my attempts to lose weight and change my diet to improve my health. Now that I've amassed a small collection of teas, I drink tea at least once a day. It isn't a necessity (though the caffeine in some teas is great for work mornings), but tea tastes wonderfully fresh and clean. Sorry, coffee.
+It's only been in the last couple of years that I've acquired an affinity for tea. This in part is due to my attempts to lose weight and change my diet to improve my health. Now that I've amassed a small collection of teas, I drink tea at least once a day. It isn't a necessity (though the caffeine in some teas is great for work mornings), but tea tastes wonderfully fresh and clean. Sorry, coffee. :tea:
 
 The tea that I'm reviewing today is the [Jasmine Blossom Green Tea][stash] by Stash Tea, a company based in Oregon. I first had this tea at [Cheesecake, Etc.][cheesecake] -- my go-to dessert hangout -- as part of the most fantabulous tea latte I've ever had: the Shanghai Fog. Similar to a London Fog, it's a combination of jasmine tea, frothed milk, and vanilla. The drink was absolutely divine, and I was thankful that the teabag was left in the drink so I was able to hunt this tea down and add it to my own collection.
 
