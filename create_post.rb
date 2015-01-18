@@ -8,9 +8,9 @@ puts "What should this post be tagged as?: (space separated list)"
 tags = gets.chomp
 
 date = Date.today.strftime("%Y-%m-%d")
-url_title = title.downcase.delete("-").gsub(" ", "-").delete("^a-zA-Z0-9-")
+url_title = title.downcase.delete("-").delete(":").gsub(" ", "-").delete("^a-zA-Z0-9-")
 
-post = File.new("/var/www/toriatalks/_posts/#{date}-#{url_title}.markdown", "w")
+post = File.open("./_posts/#{date}-#{url_title}.markdown", "w")
 post.puts("---")
 post.puts("layout:\tpost")
 post.puts("author:\tToria")
