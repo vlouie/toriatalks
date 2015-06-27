@@ -3,7 +3,7 @@ layout: post
 author: Toria
 title: "Review: Sonata Arctica, Delain, Xandria @ VENUE"
 date:   2014-09-29
-categories: tech
+categories: tunes
 tags:	reviews concerts
 ---
 
