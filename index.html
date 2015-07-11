@@ -13,8 +13,16 @@ layout: default
       <div class="fb-like" data-href="{{ post.url }}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" style="vertical-align:top;zoom:1;*display:inline"></div>
       <div class="g-plusone" data-size="medium" data-href="{{ post.url }}"></div>
     </div>
-    <small>Written by {{ post.author }}</small>
-    <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}" class="commentCount">Comments</a>
+    <table class="post-footer">
+      <tr>
+        <td>
+          <small>Written by {{ post.author }}</small>
+        </td>
+        <td>
+          <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}" class="commentCount">Comments</a>
+        </td>
+      </tr>
+    </table>
   </div>
 {% endfor %}
 

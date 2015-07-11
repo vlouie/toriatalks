@@ -37,6 +37,11 @@ a:visited { color: #1CBA8B; }
 /* Home
 /*
 /*****************************************************************************/
+
+.post-footer {
+  width: 100%;
+}
+
 .commentCount{
   float: right;
 }
