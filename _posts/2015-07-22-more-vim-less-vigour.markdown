@@ -31,7 +31,7 @@ Finally! A syntax checker! I should've installed this long, long ago. It uses pr
 [TagBar][tagbar]
 ------
 
-This plugin solves my issue of being lost in long files. Granted, files shouldn't be ridiculously in the first place, but this is not a perfect world, so we make do with handy plugins like TagBar. TagBar lists all the methods in a sidebar, which you can then use to jump to the start of any method.
+This plugin solves my issue of being lost in long files. Granted, files shouldn't be ridiculously long in the first place, but this is not a perfect world, so we make do with handy plugins like TagBar. TagBar lists all the methods in a sidebar, which you can then use to jump to the start of a method.
 
 [YouCompleteMe][ycm]
 ------------
