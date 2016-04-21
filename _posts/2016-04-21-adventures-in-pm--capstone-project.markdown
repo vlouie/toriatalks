@@ -3,7 +3,7 @@ layout:	post
 author:	Toria
 title:	"Adventures in PM - Capstone Project"
 date:	2016-04-21
-categories:	tech things
+categories:	things
 tags:	pm
 ---
 
